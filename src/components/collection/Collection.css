@@ -28,7 +28,7 @@
 .collection-deck .collection-empty-card {
   width: 7.5vw;
   transform: skew(-5deg);
-  opacity: 40%;
+  opacity: 0.4;
 }
 
 .collection-valid {
@@ -101,7 +101,7 @@
 
 .collection-card-is-chosen {
   filter: grayscale(60%);
-  opacity: 50%;
+  opacity: 0.5;
   transition: all 0.1s ease-out;
 }
 
